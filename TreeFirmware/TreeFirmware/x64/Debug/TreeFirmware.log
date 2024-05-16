@@ -1,0 +1,3 @@
+﻿  TreeFirmware.cpp
+D:\C++\TreeFirmware\TreeFirmware\TreeFirmware.cpp(61,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TreeFirmware.vcxproj -> D:\C++\TreeFirmware\x64\Debug\TreeFirmware.exe

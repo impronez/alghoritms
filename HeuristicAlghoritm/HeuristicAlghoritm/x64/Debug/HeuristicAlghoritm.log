@@ -1,0 +1,4 @@
+﻿  HeuristicAlghoritm.cpp
+D:\C++\HeuristicAlghoritm\HeuristicAlghoritm\HeuristicAlghoritm.cpp(44,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\HeuristicAlghoritm\HeuristicAlghoritm\HeuristicAlghoritm.cpp(76,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HeuristicAlghoritm.vcxproj -> D:\C++\HeuristicAlghoritm\x64\Debug\HeuristicAlghoritm.exe

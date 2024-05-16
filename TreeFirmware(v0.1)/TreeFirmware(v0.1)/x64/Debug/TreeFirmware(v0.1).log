@@ -1,0 +1,4 @@
+﻿  TreeFirmware(v0.1).cpp
+D:\C++\TreeFirmware(v0.1)\TreeFirmware(v0.1)\TreeFirmware(v0.1).cpp(40,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\TreeFirmware(v0.1)\TreeFirmware(v0.1)\TreeFirmware(v0.1).cpp(223): warning C4715: 'SearchTop': not all control paths return a value
+  TreeFirmware(v0.1).vcxproj -> D:\C++\TreeFirmware(v0.1)\x64\Debug\TreeFirmware(v0.1).exe

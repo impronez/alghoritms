@@ -1,0 +1,4 @@
+﻿  DijkstrasAlghoritm.cpp
+D:\C++\DijkstrasAlghoritm\DijkstrasAlghoritm\DijkstrasAlghoritm.cpp(135,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\DijkstrasAlghoritm\DijkstrasAlghoritm\DijkstrasAlghoritm.cpp(69): warning C4715: 'GetTown': not all control paths return a value
+  DijkstrasAlghoritm.vcxproj -> D:\C++\DijkstrasAlghoritm\x64\Debug\DijkstrasAlghoritm.exe
